@@ -17,14 +17,14 @@
 - [세종 말뭉치 데이터 다운로드 스크립트 Github](https://github.com/coolengineer/sejong-corpus)
 
 ## Korean Spacing Paper Reference
-- (2019) [BERT를 이용한 한국어 자동 띄어쓰기](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09301592&mark=0&useDate=&bookmarkCnt=2&ipRange=N&language=ko_KR). 한국정보과학회 학술발표논문집
-- (2018) [Bidirectional LSTM-CRF 기반의 음절 단위 한국어 품사 태깅 및 띄어쓰기 통합 모델 연구](http://kiise.or.kr/e_journal/2018/8/JOK/pdf/06.pdf). 정보과학회논문지
-- (2018) [LSTM 기반의 sequence-to-sequence 모델을 이용한 한글 자동 띄어쓰기](https://www.koreascience.or.kr/article/JAKO201810866006252.page). 한국스마트미디어학회 스마트미디어저널
-- (2016) [딥러닝을 이용한 한국어 자동 띄어쓰기](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07017628&mark=0&useDate=&bookmarkCnt=1&ipRange=N&language=ko_KR). 한국정보과학회 학술발표논문집
+- (2019). [BERT를 이용한 한국어 자동 띄어쓰기](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09301592&mark=0&useDate=&bookmarkCnt=2&ipRange=N&language=ko_KR). 한국정보과학회 학술발표논문집
+- (2018). [Bidirectional LSTM-CRF 기반의 음절 단위 한국어 품사 태깅 및 띄어쓰기 통합 모델 연구](http://kiise.or.kr/e_journal/2018/8/JOK/pdf/06.pdf). 정보과학회논문지
+- (2018). [LSTM 기반의 sequence-to-sequence 모델을 이용한 한글 자동 띄어쓰기](https://www.koreascience.or.kr/article/JAKO201810866006252.page). 한국스마트미디어학회 스마트미디어저널
+- (2016). [딥러닝을 이용한 한국어 자동 띄어쓰기](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07017628&mark=0&useDate=&bookmarkCnt=1&ipRange=N&language=ko_KR). 한국정보과학회 학술발표논문집
 
 ## Model Parper Reference
-- (2018). [BERT](https://arxiv.org/abs/1810.04805)
-- (2020). [Reformer](https://arxiv.org/abs/2001.04451)
+- (2018). [BERT](https://arxiv.org/abs/1810.04805) : Pre-training of Deep Bidirectional Transformers for Language Understanding. 
+- (2020). [Reformer](https://arxiv.org/abs/2001.04451) : The Efficient Transformer. ICLR 2020
 
 ## Code Reference
 - [huggingface transformers Github](https://github.com/huggingface/transformers)
